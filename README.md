@@ -1,0 +1,27 @@
+# Hey I'm Ayesha! 👋🏼
+
+## [~]$ WhoAmI
+
+An AWS Community Builder, a Cloud DevOps Engineer, and a Cloud Solutions Architect.
+
+🏗️By profession, I am working as a Cloud DevOps Engineer, also leading my own team of Cloud Engineers. Experienced in Application System Administration, Maintenance, Security, and Automations. 
+
+🚀I am currently exploring skills related to AWS Cloud, DevOps, and Cloud Security. My aim is to specialize in Cloud Native Solution Architecture Designing.
+
+🌏I love sharing my knowledge with beginners that's why I started writing an IT Blog (aysharshad.com).
+
+🥂Being an AWS Community Builder is a great honour that allowed me to equip Cloud Enthusiasts with the great knowledge of AWS and the possibilities it holds.
+
+## [~]$ Sudo get How-to-Connect
+
+1. 🛸 Visit my Blog @ [aysharshad.com](https://aysharshad.com/)
+2. 📬 [LinkedIn](https://www.linkedin.com/in/ayshaysha/)
+3. 🕊 [Twitter](https://twitter.com/aysharshad?t=4Bt2B6KC0nVn4q7r-3MRDA&s=09%20)
+
+
+## [~]$ Sudo define Interests
+
+1. I love Pandas 🐼 and Cats 🐈.
+2. Huge Supernatural Fan. *Carry On My Wayword Son*.
+3. Foodie 🍝 🍜 🌯 🥗 🥘 🍟
+
