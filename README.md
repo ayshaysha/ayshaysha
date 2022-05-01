@@ -13,6 +13,12 @@
 
 🥂Being an AWS Community Builder is a great honour that allowed me to equip Cloud Enthusiasts with the great knowledge of AWS and the possibilities it holds.
 
+## [~]$ Sudo define Interests
+
+1. I love Pandas 🐼 and Cats 🐈.
+2. Huge Supernatural Fan. *Carry On My Wayword Son*.
+3. Foodie 🍝 🍜 🌯 🥗 🥘 🍟
+
 ## [~]$ Sudo get How-to-Connect
 
 1. 🛸 Visit my Blog @ [aysharshad.com](https://aysharshad.com/)
@@ -20,9 +26,4 @@
 3. 🕊 [Twitter](https://twitter.com/aysharshad?t=4Bt2B6KC0nVn4q7r-3MRDA&s=09%20)
 
 
-## [~]$ Sudo define Interests
-
-1. I love Pandas 🐼 and Cats 🐈.
-2. Huge Supernatural Fan. *Carry On My Wayword Son*.
-3. Foodie 🍝 🍜 🌯 🥗 🥘 🍟
 
