@@ -5,9 +5,9 @@
 ### 🏛 AWS Community Builder
 ### ☁️ Cloud Solutions Architect
 
-🏗️By profession, I am working as a Cloud DevOps Engineer, also leading my own team of Cloud Engineers. Experienced in Application System Administration, DevOps, Security, and Automations. 
+🏗️By profession, I am working as a Cloud DevOps Engineer, also leading my own team of Cloud Engineers. Experienced in System Administration, DevOps, Security, and Automations. 
 
-🚀I am currently exploring skills related to AWS Cloud, DevOps, and Cloud Security. My aim is to specialize in Cloud Native Solution Architecture Designing.
+🚀Currently, I am working to discover efficient ways of architecting Cloud Solutions, Systems Engineering and ways to understand Business impact of these solutions.
 
 🌏I love sharing my knowledge with beginners that's why I started writing an IT Blog [aysharshad.com](https://aysharshad.com/).
 
