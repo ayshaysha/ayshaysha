@@ -5,18 +5,18 @@
 ### 🏛 AWS Community Builder
 ### ☁️ Cloud Solutions Architect
 
-🏗️By profession, I am working as a Cloud DevOps Engineer, also leading my own team of Cloud Engineers. Experienced in System Administration, DevOps, Security, and Automations. 
+🏗️By profession, I am working as a Cloud Security Engineer. Experienced in Cloud Solution Architecture Design, System Administration, Security, and Automation. 
 
-🚀Currently, I am working to discover efficient ways of architecting Cloud Solutions, Systems Engineering and ways to understand Business impact of these solutions.
+🚀Currently, I am working to discover Secure ways of architecting Cloud Solutions, Systems Engineering, and ways to understand the Business impact of these solutions.
 
-🌏I love sharing my knowledge with beginners that's why I started writing an IT Blog [aysharshad.com](https://aysharshad.com/).
+🌏I love sharing my knowledge with beginners that's why I started documenting my knowledge on a Tech Blog [CloudedBytes.com]([url](https://cloudedbytes.com/)).
 
-🥂Being an AWS Community Builder is a great honour that allowed me to equip Cloud Enthusiasts with the great knowledge of AWS and the possibilities it holds.
+🥂Being an AWS Community Builder is a great honor that allowed me to equip Cloud Enthusiasts with great knowledge of AWS and the possibilities it holds.
 
 ## [~]$ Sudo define Interests
 
 1. I love Pandas 🐼 and Cats 🐈.
-2. Huge Supernatural Fan. *Carry On My Wayword Son*.
+2. Huge Supernatural Fan. *Carry On My Wayward Son*.
 3. Foodie 🍝 🍜 🌯 🥗 🥘 🍟
 
 ## [~]$ Sudo get How-to-Connect
