@@ -21,7 +21,7 @@
 
 ## [~]$ Sudo get How-to-Connect
 
-1. 🛸 Visit my Blog @ [aysharshad.com](https://aysharshad.com/)
+1. 🛸 Visit my Blog @ [CloudedBytes.com](https://cloudedbytes.com/)
 2. 📬 [LinkedIn](https://www.linkedin.com/in/ayshaysha/)
 3. 🕊 [Twitter](https://twitter.com/aysharshad?t=4Bt2B6KC0nVn4q7r-3MRDA&s=09%20)
 
