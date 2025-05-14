@@ -27,8 +27,8 @@ I design, break, and secure cloud environments for a living—always chasing the
 
 When the terminal closes you'll probably find me:
 
-* 🎨 Sketching or DIY‑ing random arts & crafts
-* 🍳 Experimenting in the kitchen
+* 🎨 DIY‑ing random arts & crafts
+* 🍳 Experimenting in home and kitchen
 * 🗺️ Wandering around new places with no clear destination (best ideas happen there!)
 
 ---
